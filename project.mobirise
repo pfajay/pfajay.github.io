@@ -150,7 +150,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/europeimage-1920x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/europeimage-768x480.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
